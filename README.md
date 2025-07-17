@@ -22,3 +22,12 @@ netflix-clone/
 ├── style.css
 └── README.md
 
+
+## 📸 Screenshots
+
+![Screenshot 1](./assets/images/netflixclone1.png)
+![Screenshot 2](./assets/images/Netflixclone2.png)
+![Screenshot 2](./assets/images/Netflixclone3.png)
+![Screenshot 2](./assets/images/Netflixclone4.png)
+
+
